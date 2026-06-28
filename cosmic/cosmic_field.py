@@ -1,0 +1,2 @@
+class CosmicField:
+    pass
