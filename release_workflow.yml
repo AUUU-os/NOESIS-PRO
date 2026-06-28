@@ -1,0 +1,7 @@
+name: NOESIS Release
+on: push
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo 'Packaging NOESIS'
